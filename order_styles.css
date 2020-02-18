@@ -1,0 +1,115 @@
+body {
+	background-color: #B7CD8C;
+	margin: 0px 0px;
+}
+
+.order-container {
+	width: 250px;
+	height: auto;
+}
+
+.order-container li {
+	font-size: 16px;
+}
+
+header {
+	top: 0px;
+	background-image: url("./header_mobile.png");
+	background-position: center;
+	border-bottom: 2px;
+	width: 100%;
+	height: 56px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+h1 {
+	font-size: 18px;
+	text-align: left;
+	margin-left: 4px;
+}
+
+#ingredients {
+	list-style-type: none;
+	padding-left: 4px;
+}
+
+#additional-ingredients {
+	list-style-type: none;
+	padding-left: 4px;
+}
+
+#ingredientsUl {
+	list-style-type: none;
+	padding-left: 4px;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+#additional-ingredientsUl {
+	list-style-type: none;
+	padding-left: 4px;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+#popUpCheckbox {
+	margin: auto 8px;
+	color: #B7CD8C;
+}
+
+#titleButton {
+	background-image: url("./deleteIcon12px_square.png");
+	background-size: cover;
+	background-position: center;
+	display: inline-block;
+	border: none;
+	border-radius: 3px;
+	width: 14px;
+	height: 14px;
+	margin: 0px 4px 0px 0px;
+}
+
+.email-recipe {
+	background-image: url("./deleteIcon12px_square.png");
+	background-size: cover;
+	background-position: center;
+	display: inline-block;
+	border: none;
+	border-radius: 6px;
+	width: 14px;
+	height: 14px;
+	margin: 0px 4px;
+}
+
+#email-button {
+	background-image: url("./emailIcon_32px.png");
+	background-size: cover;
+	background-position: center;
+	display: inline-block;
+	border: none;
+	border-radius: 6px;
+	width: 2px;
+	height: 2px;
+	margin: 4px 4px;
+	visibility: hidden;
+}
+
+@media screen and (min-width: 270px) {
+	#email-button {
+		visibility: hidden;
+	}
+
+	#header {
+		top: 0px;
+		background-image: url("./header_mobile.png");
+		background-position: center;
+		border-bottom: 2px;
+		width: 100%;
+		height: 98px;
+		margin-top: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+}
+}

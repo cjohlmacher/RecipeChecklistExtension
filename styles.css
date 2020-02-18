@@ -1,0 +1,11 @@
+#ingredientsChecklist {
+	-webkit-appearance: checkbox;
+	width: 18px !important;
+	opacity: 100 !important;
+	margin: 0px 10px;
+}
+
+#ingredientsChecklistUl {
+	list-style-type: none !important;
+	margin: 0px !important;
+}
