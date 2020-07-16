@@ -14,7 +14,7 @@ body {
 
 header {
 	top: 0px;
-	background-image: url("./header_mobile.png");
+	background-image: url("./images/header_mobile.png");
 	background-position: center;
 	border-bottom: 2px;
 	width: 100%;
@@ -60,7 +60,7 @@ h1 {
 }
 
 #titleButton {
-	background-image: url("./deleteIcon12px_square.png");
+	background-image: url("./images/deleteIcon12px_square.png");
 	background-size: cover;
 	background-position: center;
 	display: inline-block;
@@ -72,7 +72,7 @@ h1 {
 }
 
 .email-recipe {
-	background-image: url("./deleteIcon12px_square.png");
+	background-image: url("./images/deleteIcon12px_square.png");
 	background-size: cover;
 	background-position: center;
 	display: inline-block;
@@ -84,7 +84,7 @@ h1 {
 }
 
 #email-button {
-	background-image: url("./emailIcon_32px.png");
+	background-image: url("./images/emailIcon_32px.png");
 	background-size: cover;
 	background-position: center;
 	display: inline-block;
@@ -103,7 +103,7 @@ h1 {
 
 	#header {
 		top: 0px;
-		background-image: url("./header_mobile.png");
+		background-image: url("./images/header_mobile.png");
 		background-position: center;
 		border-bottom: 2px;
 		width: 100%;
