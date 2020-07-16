@@ -18,3 +18,4 @@ There is also an open text field for adding additional ingredients of your choic
 The extension has been successfully used with around 20 different recipe websites, but to initially try it out I recommend using the extension with epicurious.com
 
 Enjoy!
+-Chris
